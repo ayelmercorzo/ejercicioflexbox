@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    display: flex;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000;
+    width: 25%;
+    height: 100px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    background-color: aqua;
+}
+
+#inicio:hover {
+    color: brown;
+    background-color: greenyellow;
+}
+
+#acerca-de:hover {
+    color: brown;
+    background-color: greenyellow;
+}
+#servicios:hover {
+    color: brown;
+    background-color: greenyellow;
+}
+#contacto:hover {
+    color: brown;
+    background-color: greenyellow;
+}

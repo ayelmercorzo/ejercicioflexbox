@@ -1,0 +1,43 @@
+.contenedor-padre {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.article1, .article2 , .article3, .article4 {
+    width: 25vh;
+    background-color: rgb(255, 223, 181);
+    border-radius: 25px;
+
+    img {
+        width: 100%;
+        border-radius: 25px;
+    }
+    p {
+        padding-left: 1.5vw;
+    }
+    
+}
+
+
+.article1 {
+    margin: 2vw;
+}
+
+.article1:hover {
+    cursor: pointer;
+}
+
+.article2 {
+    margin: 2vw;
+}
+
+.article3 {
+    margin: 2vw;
+}
+
+.article4 {
+    margin: 2vw;
+}
