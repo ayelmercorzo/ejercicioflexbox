@@ -1,6 +1,5 @@
 # ejercicioflexbox
 
-Z
     agregue cositas que encontre en documentacion de css
 
     TRANSICION DE ARTICULOS
@@ -15,4 +14,3 @@ Z
     RESPONSIVE DESING  (USO DE @MEDIA)
     https://www.w3schools.com/cssref/css3_pr_mediaquery.php
 
-    OVER
