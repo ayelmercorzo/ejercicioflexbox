@@ -1,4 +1,4 @@
-<h1 align="center"> PROYECTO TEST HTML </h1>
+<h1 align="center"> ejercicio flexbox </h1>
 Este repositorio contiente un ejercicio de flexbox con dos puntos.
 
 ## Estructura del Repositorio
