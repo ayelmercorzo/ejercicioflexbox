@@ -1,5 +1,5 @@
 <h1 align="center"> PROYECTO TEST HTML </h1>
-Este repositorio contiene el código desarrollado para el ejercicio de HTML y CSS en la Corporación Universitaria Uniminuto, en colaboración con CampusLands, durante el mes de junio. El proyecto se basa en una maqueta proporcionada en las capturas de pantalla que podrá ver a continuación.
+Este repositorio contiente un ejercicio de flexbox con dos puntos.
 
 ## Estructura del Repositorio
 - `punto1/` - Contiene el código y recursos para la primera sección del proyecto.
